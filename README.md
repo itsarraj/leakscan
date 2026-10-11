@@ -6,6 +6,12 @@ rules (referencing only their publicly documented default categories, not
 their regex source) plus a Shannon-entropy fallback for anything that
 doesn't match a known shape.
 
+## Installation
+
+```sh
+cargo install --path .
+```
+
 ## Usage
 
 ```bash
